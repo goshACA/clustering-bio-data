@@ -1,5 +1,5 @@
-# Bio Data Clustering
- The dataset represents biometrical information of patients. 
+# Health Analysis Clustering
+ The dataset represents information of patients' health. 
  
  **The main goals of the project:**
 - Comparison of various clustering algorithms 
